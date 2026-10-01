@@ -23,7 +23,7 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [ton-profil]([https://www.linkedin.com/in/marzouk-aymane/])
+- LinkedIn : [ton-profil](https://www.linkedin.com/in/marzouk-aymane/)
 - Email : Aymane.marzouk@etu.u-pec.fr
 
 ---
