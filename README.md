@@ -1,4 +1,4 @@
-# Bonjour, je suis Marzouk 👋
+# Bonjour, je suis Aymane Marzouk 👋
 
 🎓 Étudiant en **Master 2 Systèmes d'Information** à l'**EPISEN – Université Paris-Est Créteil (UPEC)**
 🔎 **En recherche d'un stage ou d'une alternance** en systèmes d'information
@@ -23,7 +23,7 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [ton-profil]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/marzouk-aymane/))
+- LinkedIn : [ton-profil]([https://www.linkedin.com/in/marzouk-aymane/])
 - Email : Aymane.marzouk@etu.u-pec.fr
 
 ---
