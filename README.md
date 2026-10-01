@@ -23,8 +23,8 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [ton-profil](https://www.linkedin.com/in/ton-profil)
-- Email : ton.email@exemple.com
+- LinkedIn : [ton-profil]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/marzouk-aymane/))
+- Email : Aymane.marzouk@etu.u-pec.fr
 
 ---
 
