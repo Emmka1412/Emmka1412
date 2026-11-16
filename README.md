@@ -1,12 +1,12 @@
-# Bonjour, je suis Aymane Marzouk 👋
+# Bonjour, je suis Aymane Marzouk 
 
-🎓 Étudiant en **Master 2 Systèmes d'Information** à l'**EPISEN – Université Paris-Est Créteil (UPEC)**
-🔎 **En recherche d'un stage ou d'une alternance** en systèmes d'information
-📍 Créteil / Île-de-France
+ Étudiant en **Master 2 Systèmes d'Information** à l'**EPISEN – Université Paris-Est Créteil (UPEC)**
+ **En recherche d'un stage ou d'une alternance** en systèmes d'information
+ Créteil / Île-de-France
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 <!-- Garde seulement ce que tu maîtrises vraiment, ajoute le reste -->
 - **Langages :** Python, SQL, Java
@@ -14,18 +14,18 @@
 - **SI & gestion de projet :** analyse des besoins, rédaction de spécifications, méthodes Agile / Scrum
 - **Outils :** Git & GitHub, VS Code
 
-## 📂 Projets
+## Projets
 
 | Projet | Description | Technologies |
 |---|---|---|
 | [To-do-list](https://github.com/Emmka1412/To-do-list) | Gestionnaire de tâches | Python |
 | _Nouveau projet_ | _Courte description_ | _Technos_ |
 
-## 📫 Me contacter
+##  Me contacter
 
 - LinkedIn : [Mon-profil](https://www.linkedin.com/in/marzouk-aymane/)
 - Email : Aymane.marzouk@etu.u-pec.fr
 
 ---
 
-💡 *Ouvert aux opportunités de stage et d'alternance en SI : n'hésitez pas à me contacter.*
+ *Ouvert aux opportunités de stage et d'alternance en SI : n'hésitez pas à me contacter.*
