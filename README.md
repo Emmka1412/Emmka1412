@@ -18,8 +18,8 @@
 
 | Projet | Description | Technologies |
 |---|---|---|
-| [To-do-list](https://github.com/Emmka1412/To-do-list) | Gestionnaire de tâches | Python |
-| _Nouveau projet_ | _Courte description_ | _Technos_ |
+| [hopital-kpi-dashboard](https://github.com/Emmka1412/hopital-kpi-dashboard) | Pipeline qualité de données hospitalières : nettoyage de 3 sources, modèle en étoile, KPI (DMS, occupation, absences) et prévision des admissions à 3 mois (données synthétiques) | Python, pandas, PostgreSQL, Power BI, Docker, GitHub Actions |
+| [velodata-warehouse](https://github.com/Emmka1412/velodata-warehouse) | Entrepôt de données en architecture Medallion (Bronze, Silver, Gold) : intégration CRM et ERP (~116 000 lignes), correction de 12 types d'anomalies, schéma en étoile, tests de qualité en CI | PostgreSQL, PL/pgSQL, Docker, GitHub Actions |
 
 ##  Me contacter
 
